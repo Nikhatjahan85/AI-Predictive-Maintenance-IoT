@@ -1,0 +1,40 @@
+Reading 1: Temp=60, Vib=2, Curr=8 : ✅ Normal
+Reading 2: Temp=75, Vib=4, Curr=10 : ✅ Normal
+Reading 3: Temp=90, Vib=8, Curr=15 : ⚠️ Failure
+Reading 4: Temp=85, Vib=7, Curr=14 : ⚠️ Failure
+Reading 1: Temp=60, Vib=2, Curr=8 : ✅ Normal
+Reading 2: Temp=75, Vib=4, Curr=10 : ✅ Normal
+Reading 3: Temp=90, Vib=8, Curr=15 : ⚠️ Failure
+Reading 4: Temp=85, Vib=7, Curr=14 : ⚠️ Failure
+Reading 1: Temp=60, Vib=2, Curr=8 : Normal
+Reading 2: Temp=65, Vib=3, Curr=9 : Normal
+Reading 3: Temp=70, Vib=2, Curr=10 : Normal
+Reading 4: Temp=72, Vib=3, Curr=11 : Normal
+Reading 5: Temp=75, Vib=4, Curr=10 : Normal
+Reading 6: Temp=78, Vib=5, Curr=12 : Normal
+Reading 7: Temp=80, Vib=6, Curr=13 : Failure
+Reading 8: Temp=82, Vib=6, Curr=14 : Failure
+Reading 9: Temp=85, Vib=7, Curr=14 : Failure
+Reading 10: Temp=88, Vib=8, Curr=15 : Failure
+Reading 11: Temp=90, Vib=8, Curr=15 : Failure
+Reading 12: Temp=92, Vib=9, Curr=16 : Failure
+Reading 13: Temp=55, Vib=1, Curr=7 : Normal
+Reading 14: Temp=58, Vib=2, Curr=8 : Normal
+Reading 15: Temp=62, Vib=3, Curr=9 : Normal
+Reading 16: Temp=67, Vib=4, Curr=10 : Normal
+Reading 17: Temp=73, Vib=5, Curr=11 : Normal
+Reading 18: Temp=77, Vib=6, Curr=12 : Failure
+Reading 19: Temp=83, Vib=7, Curr=13 : Failure
+Reading 20: Temp=87, Vib=8, Curr=14 : Failure
+Reading 21: Temp=91, Vib=9, Curr=15 : Failure
+Reading 22: Temp=95, Vib=9, Curr=16 : Failure
+Reading 23: Temp=50, Vib=1, Curr=6 : Normal
+Reading 24: Temp=52, Vib=2, Curr=7 : Normal
+Reading 25: Temp=68, Vib=3, Curr=9 : Normal
+Reading 26: Temp=74, Vib=4, Curr=10 : Normal
+Reading 27: Temp=79, Vib=5, Curr=12 : Failure
+Reading 28: Temp=81, Vib=6, Curr=13 : Failure
+Reading 29: Temp=84, Vib=7, Curr=14 : Failure
+Reading 30: Temp=89, Vib=8, Curr=15 : Failure
+Reading 31: Temp=93, Vib=9, Curr=16 : Failure
+Reading 32: Temp=97, Vib=10, Curr=17 : Failure
